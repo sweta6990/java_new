@@ -14,3 +14,5 @@ def meth1(n):
     for j in sorted(set(t)):
         print('Sorted and setted..i.e removed duplicates.')
         print(j)
+
+meth1(22)
